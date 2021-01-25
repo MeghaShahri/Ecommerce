@@ -1,11 +1,1 @@
-asgiref==3.2.10
-dj-database-url==0.5.0
-Django==3.0.8
-django-heroku==0.3.1
-gunicorn==20.0.4
-psycopg2==2.8.5
-python-decouple==3.3
-pytz==2020.1
-sqlparse==0.3.1
-whitenoise==5.1.0
-django-heroku==0.3.1
+appdirs==1.4.4asgiref==3.2.7astroid==2.4.2certifi==2020.4.5.2cffi==1.14.0chardet==3.0.4Click==7.0colorama==0.4.3cryptography==2.9.2defusedxml==0.7.0rc1distlib==0.3.0Django==2.1.5django-allauth==0.42.0dnspython==1.16.0ffpyplayer==4.3.1filelock==3.0.12Flask==1.1.1Flask-SQLAlchemy==2.4.1future==0.18.2google-api-python-client==1.6.4httplib2==0.18.1idna==2.9impacket==0.9.21isort==4.3.21itsdangerous==1.1.0Jinja2==2.11.1jsonpickle==0.9.6lazy-object-proxy==1.4.3ldap3==2.7ldapdomaindump==0.9.3MarkupSafe==1.1.1mccabe==0.6.1mysql==0.0.2mysql-connector==2.2.9mysqlclient==1.4.6numpy==1.18.1oauth2client==4.1.2oauthlib==3.1.0Pillow==7.1.1pipenv==2020.6.2psycopg2==2.8.5pyasn1==0.4.8pyasn1-modules==0.2.8pycparser==2.20pycryptodome==3.9.7pycryptodomex==3.9.7pygame==1.9.6PyJWT==1.7.1pylint==2.5.3PyMySQL==0.9.3pyOpenSSL==19.1.0python-dateutil==2.8.1python3-openid==3.1.0pytz==2020.1requests==2.23.0requests-oauthlib==1.3.0rsa==4.1six==1.15.0social-auth-app-django==3.4.0social-auth-core==3.3.3SQLAlchemy==1.3.13sqlparse==0.3.1toml==0.10.1uritemplate==3.0.1urllib3==1.25.9asgiref==3.2.10dj-database-url==0.5.0Django==3.0.8django-heroku==0.3.1gunicorn==20.0.4psycopg2==2.8.5python-decouple==3.3pytz==2020.1sqlparse==0.3.1whitenoise==5.1.0django-heroku==0.3.1virtualenv==20.0.21virtualenv-clone==0.5.4Werkzeug==1.0.0wrapt==1.12.1
